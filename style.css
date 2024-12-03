@@ -30,7 +30,7 @@ button{
 
 .textoPortada{
     position: absolute;
-    top: 30%;
+    top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: #ffffff;
@@ -44,7 +44,7 @@ button{
 
 .textoNovios{
     position: absolute;
-    top: 70%;
+    top: 80%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: #ffffff;
@@ -562,6 +562,10 @@ th {
     text-align: center;
     font-size: 16px;
     padding: 3%;
+}
+
+.padrinos img{
+    aspect-ratio: 4/4;
 }
 
 .confirmar{
