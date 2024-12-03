@@ -54,6 +54,31 @@ button{
     letter-spacing: 0.3rem;
 }
 
+.reproducir{
+    margin: auto 0;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.reproducir button{
+    border-radius: 50%;
+    border: solid 1px #D5C0D4;
+    width: 70px;
+    height: 70px;
+}
+
+.reproducir svg{
+    width: 100%;
+    height: 100%;
+    color: #A785AF ;
+}
+
+.musica{
+    margin: 0 auto;
+    text-align: center;
+    opacity: 0;
+}
+
 .contador{
     position: relative;
     text-align: center;
@@ -364,7 +389,6 @@ th {
 .color{
     margin-top: 3%;
     margin-bottom: 3%;
-    border: 1px solid #9e9e9e;
     width: 50px;
     height: 50px;
     border-radius: 50%;
